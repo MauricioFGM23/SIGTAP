@@ -36,5 +36,12 @@ Temporary Items
 *.dbf
 *.inf
 *.xls
+*.xlsx
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.csv
+*.env
 
 .Rproj.user
